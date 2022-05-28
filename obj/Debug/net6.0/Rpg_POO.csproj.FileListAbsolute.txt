@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\bin\Debug\net6.0\Rpg_POO.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\bin\Debug\net6.0\Rpg_POO.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\bin\Debug\net6.0\Rpg_POO.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\bin\Debug\net6.0\Rpg_POO.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\bin\Debug\net6.0\Rpg_POO.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\refint\Rpg_POO.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\Rpg_POO.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\abstraindo-um-jogo-rpg-com-csharp\Rpg_POO\obj\Debug\net6.0\ref\Rpg_POO.dll
